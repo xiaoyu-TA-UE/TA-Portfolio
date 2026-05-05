@@ -23,5 +23,5 @@
 - 持续更新中
 
 ## 联系方式
-- GitHub: https://github.com/xiaolin-TA-UE/TA-Portfolio
+- GitHub: [https://github.com/xiaolin-TA-UE/TA-Portfolio](https://github.com/xiaoyu-TA-UE/TA-Portfolio)
 - 邮箱: linweiyu6661@outlook.com
